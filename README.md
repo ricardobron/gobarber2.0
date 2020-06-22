@@ -11,7 +11,7 @@
 
   <br>
 
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/ricardobron/gobarber-web">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/ricardobron/gobarber2.0">
 
   <a href="https://www.linkedin.com/in/ricardo-silva-b40027178/">
     <img alt="Made by ricardobron" src="https://img.shields.io/badge/made%20by-ricardobron-%2304D361">
